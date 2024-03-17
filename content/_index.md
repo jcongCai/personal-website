@@ -52,113 +52,128 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: Doctoral research
+      company_logo: nju
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2023-09-01"
       description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
+          Research interests include:
+          * Big data in city management
+          * Robust decision-making
+          * Cascading disaster risk modeling
+          * Multi-objective optimisation
+      location: Nanjing, Jiangsu
+      title: Environmental Science & Engineering
+    - company: Undergraduate education
+      company_logo: nju
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
-    title: Experience
+      date_end: "2023-06-30"
+      date_start: "2019-09-01"
+      description: |2-
+          During the undergraduate education, the following were mastered:
+          * Fundamental science:Mathematics, physics and chemistry
+          * Earth science: Gain a comprehensive understanding of the Earth from atmosphere, geosphere, geomorphology and             ocean currents.
+          * Environmental management: Including ecological restoration, environmental modelling, environmental economics,             environmental policy analysis, environmental risk assessment, ecotoxicology
+
+      location: Nanjing, Jiangsu
+      title: Environmental planning & management
+    title: Educational experience
   design:
     columns: "2"
+  id: experience
 - block: accomplishments
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
+    - certificate_url: http://www.iue.cas.cn/
       date_end: ""
-      date_start: "2021-01-25"
+      date_start: "2023-12-12"
       description: ""
-      icon: coursera
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
+      icon: award-solid
+      organization: Institute of Urban Environment, Chinese Academy of Sciences
+      organization_url: http://www.iue.cas.cn/
+      title: Give an oral presentation on the 1st International Conference on Urban Science and Sustainability
+    - certificate_url: https://ndsc.nju.edu.cn/5c/0a/c11256a613386/pagem.htm
+      date_end: ""
+      date_start: "2023-04-01"
+      description: ""
+      icon: award-solid
+      organization: Ministry of Education of the People's Republic of China
+      organization_url: http://www.moe.gov.cn/
+      title: Won the gold medal in the national final of the 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition
       url: ""
-    - certificate_url: https://www.edx.org
+    - certificate_url: https://public.nju.edu.cn/xsky/xsjz/20231013/i251689.html
       date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      icon: edx
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
+      date_start: "2023-10-12"
       description: ""
-      icon: datacamp
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
+      icon: award-solid
+      organization: Jiangsu Education Department
+      organization_url: ""
+      title: Won the special prize in the Postgraduate Safe and Resilient City Scientific Research Innovation Practice Competition
+      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    - certificate_url: https://jsgjc.jse.edu.cn/cxcypt/cxcypt/Index/ItemDetail?id=9ddbe636-40fa-4833-b172-9a3d4bec6f11&_pageIndex=1065
+      date_end: "2022-11-01"
+      date_start: "2021-10-01"
+      description: ""
+      icon: award-solid
+      organization: Jiangsu Education Department
+      organization_url: https://jyt.jiangsu.gov.cn/
+      title: Host an national innovation and entrepreneurship training programm
       url: ""
     subtitle: null
     title: Accomplish&shy;ments
   design:
     columns: "2"
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - post
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Recent Posts
-  design:
-    columns: "2"
-    view: compact
-  id: posts
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
+  id: accomplishments
+# - block: collection
+#   content:
+#     count: 5
+#     filters:
+#       author: ""
+#       category: ""
+#       exclude_featured: false
+#       exclude_future: false
+#       exclude_past: false
+#       folders:
+#       - post
+#       publication_type: ""
+#       tag: ""
+#     offset: 0
+#     order: desc
+#     subtitle: ""
+#     text: ""
+#     title: Recent Posts
+#   design:
+#     columns: "2"
+#     view: compact
+#   id: posts
+# - block: portfolio
+#   content:
+#     buttons:
+#     - name: All
+#       tag: '*'
+#     - name: Deep Learning
+#       tag: Deep Learning
+#     - name: Other
+#       tag: Demo
+#     default_button_index: 0
+#     filters:
+#       folders:
+#       - project
+#     title: Projects
+#   design:
+#     columns: "1"
+#     flip_alt_rows: false
+#     view: showcase
+#   id: projects
+# - block: markdown
+#   content:
+#     subtitle: ""
+#     text: '{{< gallery album="demo" >}}'
+#     title: Gallery
+#   design:
+#     columns: "1"
 - block: collection
   content:
     filters:
@@ -184,49 +199,49 @@ sections:
   design:
     columns: "2"
     view: citation
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
+# - block: collection
+#   content:
+#     filters:
+#       folders:
+#       - event
+#     title: Recent & Upcoming Talks
+#   design:
+#     columns: "2"
+#     view: compact
+#   id: talks
+# - block: tag_cloud
+#   content:
+#     title: Popular Topics
+#   design:
+#     columns: "2"
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
-    appointment_url: https://calendly.com
+      city: Nanjing
+      country: China
+      country_code: CN
+      postcode: "210044"
+      region: QiXia
+      street: Xianlin Avenue 163
+    # appointment_url: https://calendly.com
     autolink: true
     contact_links:
     - icon: twitter
       icon_pack: fab
-      link: https://twitter.com/Twitter
+      link: https://twitter.com/leochar81202802
       name: DM Me
     - icon: skype
       icon_pack: fab
-      link: skype:echo123?call
+      link: https://shiguangpu.com/coreCustomer/index_6510454.html
       name: Skype Me
     - icon: video
       icon_pack: fas
       link: https://zoom.com
       name: Zoom Me
     coordinates:
-      latitude: "37.4275"
-      longitude: "-122.1697"
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      latitude: "32.11755"
+      longitude: "118.95374"
+    directions: Enter Building 1 and take the stairs to Office 611 on Floor 6
     email: test@example.org
     form:
       formspree:
@@ -239,8 +254,7 @@ sections:
     - Wednesday 09:00 to 10:00
     phone: 888 888 88 88
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    text: If you have anything, please feel free to contact me at the email address below.
     title: Contact
   design:
     columns: "2"

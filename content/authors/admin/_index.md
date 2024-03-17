@@ -12,9 +12,9 @@ education:
 first_name: Cai Jia
 highlight_name: true
 interests:
-- Big Data in Urban Management
+- Big data in city management
 - Robust decision-making
-- Cascading disasters risk modeling
+- Cascading disaster risk modeling
 - Multi-objective optimisation
 last_name: Cong
 name_pronunciation: Jia Cong Cai
@@ -75,12 +75,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jcongCai
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/leo-charles-361671246/
+- icon: infinity
+  icon_pack: fas
+  link: https://jiacongcai.netlify.app/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
+
+  
 status:
   icon: ☕️
 superuser: true

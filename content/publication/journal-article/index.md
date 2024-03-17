@@ -1,43 +1,41 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Understanding the impact of heavy precipitation on human mobility is critical for finer-scale urban flood risk assessment and achieving sustainable development goals 11 to build resilient and safe cities. Using ∼2.6 million mobile phone signal data collected during the summer of 2018 in Jiangsu, China, this study proposes a novel framework to assess human mobility changes during rainfall events at a high spatial granularity (500 m grid cell). The fine-scale mobility map identifies spatial hotspots with abnormal clustering or reduced human activities. When aggregating to the prefecture-city level, results show that human mobility changes range between −3.6 and 8.9%, revealing varied intracity movement across cities. Piecewise structural equation modeling analysis further suggests that city size, transport system, and crowding level directly affect mobility responses, whereas economic conditions influence mobility through multiple indirect pathways. When overlaying a historical urban flood map, we find such human mobility changes help 23 cities reduce 2.6% flood risks covering 0.45 million people but increase a mean of 1.64% flood risks in 12 cities covering 0.21 million people. The findings help deepen our understanding of the mobility pattern of urban dwellers after heavy precipitation events and foster urban adaptation by supporting more efficient small-scale hazard management.
+
 author_notes:
-- Equal contribution
-- Equal contribution
+# - Equal contribution
+# - Equal contribution
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Jiacong Cai
+- Jianxun Yang
+- Miaomiao Liu
+- Wen Fang
+- Zongwei Ma
+- Jun Bi
+date: "2024-02-28T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c03145)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Environmental Science & Technology (2024)'
 publication_short: ""
 publication_types:
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-02-28T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study proposes a framework to assess fine-scale changes in human mobility and urban flood risks during heavy rainfall events by integrating mobile phone big data.
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/HugoBlox/hugo-blox-builder
+title: Informing Urban Flood Risk Adaptation by Integrating Human Mobility Big Data During Heavy
+url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.est.3c03145
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: https://pubs.acs.org/doi/full/10.1021/acs.est.3c03145
 url_video: ""
 ---
 
