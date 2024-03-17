@@ -250,8 +250,8 @@ sections:
         captcha: false
       provider: netlify
     office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
+    - Monday to Saturday 09:00 to 17:00
+    - Sunday 10:00 to 16:00
     # phone: 888 888 88 88
     subtitle: null
     text: If you have anything, please feel free to contact me at the email address below.
