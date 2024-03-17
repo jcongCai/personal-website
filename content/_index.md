@@ -221,7 +221,7 @@ sections:
       country: China
       country_code: CN
       postcode: "210044"
-      region: QiXia
+      region: QiXia District
       street: Xianlin Avenue 163
     # appointment_url: https://calendly.com
     autolink: true
@@ -242,7 +242,7 @@ sections:
       latitude: "32.11755"
       longitude: "118.95374"
     directions: Enter Building 1 and take the stairs to Office 611 on Floor 6
-    email: test@example.org
+    email: 652023250001@smail.nju.edu.cn
     form:
       formspree:
         id: null
@@ -252,7 +252,7 @@ sections:
     office_hours:
     - Monday 10:00 to 13:00
     - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    # phone: 888 888 88 88
     subtitle: null
     text: If you have anything, please feel free to contact me at the email address below.
     title: Contact
