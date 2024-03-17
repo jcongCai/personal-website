@@ -3,62 +3,60 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: PhD candidate in Environmental Science & Engineering
+    institution: Nanjing University
+    year: 2023
+  - course: BSc in Environmental Planning & Management
+    institution: Nanjing University
+    year: 2019-2023
+first_name: Cai Jia
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- Big Data in Urban Management
+- Robust decision-making
+- Cascading disasters risk modeling
+- Multi-objective optimisation
+last_name: Cong
+name_pronunciation: Jia Cong Cai
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Nanjing University
+  url: https://www.nju.edu.cn/
+role: PhD candidate of Environmental Science & Engineering
 skills:
 - items:
+  - description: ""
+    icon: r-project
+    icon_pack: fab
+    name: R
+    percent: 80
   - description: ""
     icon: python
     icon_pack: fab
     name: Python
-    percent: 80
+    percent: 40
   - description: ""
     icon: chart-line
     icon_pack: fas
     name: Data Science
     percent: 100
-  - description: ""
-    icon: database
-    icon_pack: fas
-    name: SQL
-    percent: 40
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
   - description: ""
-    icon: person-hiking
+    icon: plane-departure
     icon_pack: fas
-    name: Hiking
+    name: Travel
     percent: 60
   - description: ""
-    icon: cat
+    icon: dumbbell
     icon_pack: fas
-    name: Cats
+    name: Work out
     percent: 100
   - description: ""
-    icon: camera-retro
+    icon: gamepad
     icon_pack: fas
-    name: Photography
+    name: Computer and video games
     percent: 80
   name: Hobbies
 social:
@@ -70,24 +68,24 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/leochar81202802
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=zh-CN&user=6uPGivcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jcongCai
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/leo-charles-361671246/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: 蔡嘉聪
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jia Cong Cai is a PhD candidate of environmental science at the school of Environment, Nanjing University. His research interests include population response to disaster, industry cascade risk and climate change adaptation. His research interests have led to a number of research endeavours and participation in various academic conferences
 {style="text-align: justify;"}
