@@ -239,8 +239,8 @@ sections:
       link: https://zoom.com
       name: Zoom Me
     coordinates:
-      latitude: "32.11755"
-      longitude: "118.95374"
+      latitude: "32.119518"
+      longitude: "118.948694"
     directions: Enter Building 1 and take the stairs to Office 611 on Floor 6
     email: 652023250001@smail.nju.edu.cn
     form:
