@@ -254,7 +254,7 @@ sections:
     - Sunday 10:00 to 16:00
     # phone: 888 888 88 88
     subtitle: null
-    text: If you have anything, please feel free to contact me at the email address below.
+    text: Please feel free to contact me AT the following address if you need any further information.
     title: Contact
   design:
     columns: "2"
