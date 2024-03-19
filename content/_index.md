@@ -72,7 +72,7 @@ sections:
       date_start: "2019-09-01"
       description: |2-
           During the undergraduate education, the following were mastered:
-          * Fundamental science:Mathematics, physics and chemistry
+          * Fundamental science: Mathematics, physics and chemistry
           * Earth science: Gain a comprehensive understanding of the Earth from atmosphere, geosphere, geomorphology and             ocean currents.
           * Environmental management: Including ecological restoration, environmental modelling, environmental economics,             environmental policy analysis, environmental risk assessment, ecotoxicology
 
@@ -167,13 +167,14 @@ sections:
 #     flip_alt_rows: false
 #     view: showcase
 #   id: projects
-# - block: markdown
-#   content:
-#     subtitle: ""
-#     text: '{{< gallery album="demo" >}}'
-#     title: Gallery
-#   design:
-#     columns: "1"
+- block: markdown
+  content:
+    subtitle: ""
+    text: '{{< gallery album="personal_demo" >}}'
+    title: Gallery
+  design:
+    columns: "1"
+  id: gallery
 - block: collection
   content:
     filters:

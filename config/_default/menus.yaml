@@ -13,9 +13,9 @@ main:
   - name: Accomplishments
     url: '#accomplishments'
     weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
+  - name: Gallery
+    url: '#gallery'
+    weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
