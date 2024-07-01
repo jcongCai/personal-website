@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Publications | Academic</title>
+    <link>http://localhost:4321/recent-publications/</link>
+      <atom:link href="http://localhost:4321/recent-publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent Publications</title>
+      <link>http://localhost:4321/recent-publications/</link>
+    </image>
+    
+    <item>
+      <title>A two-stage robust decision-making framework (2S-RDM) for flood risk adaptation under deep uncertainty</title>
+      <link>http://localhost:4321/recent-publications/journal-article2/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/recent-publications/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informing Urban Flood Risk Adaptation by Integrating Human Mobility Big Data During Heavy</title>
+      <link>http://localhost:4321/recent-publications/journal-article/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/recent-publications/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
