@@ -33,12 +33,12 @@ skills:
     icon: python
     icon_pack: fab
     name: Python
-    percent: 40
+    percent: 60
   - description: ""
     icon: chart-line
     icon_pack: fas
     name: Data Science
-    percent: 100
+    percent: 90
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
@@ -47,16 +47,16 @@ skills:
     icon: plane-departure
     icon_pack: fas
     name: Travel
-    percent: 60
+    percent: 70
   - description: ""
     icon: dumbbell
     icon_pack: fas
     name: Work out
-    percent: 100
+    percent: 60
   - description: ""
-    icon: gamepad
+    icon: basketball
     icon_pack: fas
-    name: Computer and video games
+    name: Basketball
     percent: 80
   name: Hobbies
 social:

@@ -13,9 +13,9 @@ authors:
 - Jun Bi
 date: "2024-02-28T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c03145)'
+  caption: 'Image credit: [**ACS**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c03145)'
   focal_point: ""
   preview_only: false
 projects: []

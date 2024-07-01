@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>A two-stage robust decision-making framework (2S-RDM) for flood risk adaptation under deep uncertainty</title>
+      <link>http://localhost:4321/publication/journal-article2/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Informing Urban Flood Risk Adaptation by Integrating Human Mobility Big Data During Heavy</title>
       <link>http://localhost:4321/publication/journal-article/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
@@ -279,7 +287,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-948635712&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-941872365&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -289,7 +297,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-948635712&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-941872365&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
