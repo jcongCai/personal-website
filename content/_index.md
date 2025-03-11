@@ -59,10 +59,10 @@ sections:
       date_start: "2023-09-01"
       description: |2-
           Research interests include:
-          * Big data in city management
-          * Robust decision-making
-          * Cascading disaster risk modeling
-          * Multi-objective optimisation
+          * Impact assessment
+          * Cascading risk
+          * Climate change adaptation
+          * Decision-making
       location: Nanjing, Jiangsu
       title: Environmental Science & Engineering
     - company: Undergraduate education
@@ -73,7 +73,7 @@ sections:
       description: |2-
           During the undergraduate education, the following were mastered:
           * Fundamental science: Mathematics, physics and chemistry
-          * Earth science: Gain a comprehensive understanding of the Earth from atmosphere, geosphere, geomorphology and             ocean currents.
+          * Earth science: Gain a comprehensive understanding of the earth system, mainly about connections between the atmosphere, hydrosphere, lithosphere, and biosphere in terms of matter and energy.
           * Environmental management: Including ecological restoration, environmental modelling, environmental economics,             environmental policy analysis, environmental risk assessment, ecotoxicology
 
       location: Nanjing, Jiangsu
@@ -86,6 +86,38 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2024-12-12"
+      description: ""
+      icon: award-solid
+      organization: Nanjing University
+      organization_url: ""
+      title: 2024 Outstanding Graduate Student of Nanjing University
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2024-10-12"
+      description: ""
+      icon: award-solid
+      organization: Ministry of Education of the People's Republic of China
+      organization_url: ""
+      title: National Scholarships for Graduate Students
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2023-10-12"
+      description: ""
+      icon: award-solid
+      organization: Nanjing University
+      organization_url: ""
+      title: Nanjing University President's Special Scholarship
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2023-10-12"
+      description: ""
+      icon: award-solid
+      organization: Wuhan East Lake New Technology Development Zone Management Committee
+      organization_url: ""
+      title: China Optics Valley Scholarship
     - certificate_url: http://www.iue.cas.cn/
       date_end: ""
       date_start: "2023-12-12"
@@ -122,7 +154,7 @@ sections:
       title: Host an national innovation and entrepreneurship training programm
       url: ""
     subtitle: null
-    title: Accomplish&shy;ments
+    title: Awards & Accomplish&shy;ments
   design:
     columns: "2"
   id: accomplishments
@@ -243,7 +275,7 @@ sections:
       latitude: "32.119518"
       longitude: "118.948694"
     directions: Enter Building 1 and take the stairs to Office 611 on Floor 6
-    email: 652023250001@smail.nju.edu.cn
+    email: jiacong.cai@smail.nju.edu.cn
     form:
       formspree:
         id: null

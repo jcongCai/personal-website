@@ -5,17 +5,17 @@ education:
   courses:
   - course: PhD candidate in Environmental Science & Engineering
     institution: Nanjing University
-    year: 2023
+    year: 2023-
   - course: BSc in Environmental Planning & Management
     institution: Nanjing University
     year: 2019-2023
 first_name: Jia Cong
 highlight_name: true
 interests:
-- Big data in city management
-- Robust decision-making
-- Cascading disaster risk modeling
-- Multi-objective optimisation
+- Impact assessment
+- Cascading risk
+- Climate change adaptation
+- Decision-making
 last_name: Cai
 name_pronunciation: Cai Jia Cong
 organizations:
@@ -35,10 +35,10 @@ skills:
     name: Python
     percent: 60
   - description: ""
-    icon: chart-line
+    icon: earth-asia
     icon_pack: fas
-    name: Data Science
-    percent: 90
+    name: Gis
+    percent: 75
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
@@ -89,5 +89,5 @@ superuser: true
 title: 蔡嘉聪
 ---
 
-Jiacong Cai is a PhD candidate of environmental science at the school of Environment, Nanjing University. His research interests include population response to disaster, industry cascade risk and climate change adaptation. These research interests have led to a number of research endeavours and participation in various academic conferences
+Jiacong Cai is a PhD candidate of environmental science at the school of Environment, Nanjing University. His research interests include climate change impact assessment and adaptation. These research interests have led to a number of research endeavours and participation in various academic conferences
 {style="text-align: justify;"}
