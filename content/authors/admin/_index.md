@@ -80,7 +80,7 @@ social:
   link: https://jiacongcai.netlify.app/
 - icon: cv
   icon_pack: ai
-  link: uploads/Resume.pdf
+  link: uploads/Resume_1.pdf
 
   
 status:
