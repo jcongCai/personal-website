@@ -90,5 +90,5 @@ superuser: true
 title: 蔡嘉聪
 ---
 
-Jiacong Cai is a PhD candidate of environmental science at the school of Environment, Nanjing University. His research interests include climate change impact assessment and adaptation. These research interests have led to a number of research endeavours and participation in various academic conferences
+Jiacong Cai is a PhD candidate of environmental science at the school of Environment, Nanjing University. His research interests include climate change impact assessment and adaptation. These research interests have led to a number of research endeavours and participation in various academic conferences.
 {style="text-align: justify;"}
