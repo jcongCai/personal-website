@@ -226,7 +226,7 @@ sections:
       - publication
     text: |-
       {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
+      Quickly discover relevant content by [filtering publications](./Publications/).
       {{% /callout %}}
     title: Recent Publications
   design:
