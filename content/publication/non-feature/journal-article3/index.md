@@ -28,7 +28,7 @@ publishDate: "2025-05-01T00:00:00Z"
 
 summary: ""
 tags:
-- Source Themes
+
 title: A better balance:Energy transition and industrial restructuring for a sustainable economy-climate-environment pathway
 url_code: ""
 url_dataset: ""
