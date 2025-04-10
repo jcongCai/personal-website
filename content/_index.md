@@ -259,18 +259,11 @@ sections:
     # appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: twitter
+    - icon: orcid
       icon_pack: fab
-      link: https://twitter.com/leochar81202802
-      name: DM Me
-    - icon: skype
-      icon_pack: fab
-      link: https://shiguangpu.com/coreCustomer/index_6510454.html
-      name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
+      link: https://orcid.org/0009-0003-3708-878X
+      name: Find me on ORCID
+    
     coordinates:
       latitude: "32.119518"
       longitude: "118.948694"
@@ -283,8 +276,8 @@ sections:
         captcha: false
       provider: netlify
     office_hours:
-    - Monday to Saturday 09:00 to 17:00
-    - Sunday 10:00 to 16:00
+    - Monday to Saturday 09:00 to 21:00
+    - Sunday 10:00 to 20:00
     # phone: 888 888 88 88
     subtitle: null
     text: Please feel free to contact me AT the following address if you need any further information.
