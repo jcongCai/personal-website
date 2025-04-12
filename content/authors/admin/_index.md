@@ -65,16 +65,16 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: orcid
+  icon: researchgate
   icon_pack: fab
-  label: My ORCID
+  label: My ResearchGate
+  link: https://www.researchgate.net/profile/Jiacong-Cai?ev=hdr_xprf
+- icon: orcid
+  icon_pack: fab
   link: https://orcid.org/0009-0003-3708-878X
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=zh-CN&user=6uPGivcAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jcongCai
 - icon: infinity
   icon_pack: fas
   label: Permanant site

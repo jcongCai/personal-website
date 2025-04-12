@@ -8195,18 +8195,18 @@ a.summary-link {
     color: #2962ff !important; }
 
 .dark .navbar {
-  background: #282a36;
+  background: #fff;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, 0.11); }
   .dark .navbar .navbar-nav .nav-link {
-    color: rgba(255, 255, 255, 0.85); }
+    color: rgba(52, 73, 94, 0.85); }
     .dark .navbar .navbar-nav .nav-link.active, .dark .navbar .navbar-nav .nav-link:hover, .dark .navbar .navbar-nav .nav-link:focus {
-      color: rgba(255, 255, 255, 0.8); }
+      color: #2962ff; }
     .dark .navbar .navbar-nav .nav-link.active {
       font-weight: bold !important;
-      color: rgba(255, 255, 255, 0.8) !important; }
+      color: #2962ff !important; }
   .dark .navbar .dropdown-item.active,
   .dark .navbar .dropdown-item-active {
-    color: rgba(255, 255, 255, 0.8) !important; }
+    color: #2962ff !important; }
 
 .navbar-toggler {
   border: 0 !important;
@@ -8214,7 +8214,7 @@ a.summary-link {
   z-index: 1030; }
 
 .dark .navbar-toggler {
-  color: white; }
+  color: #34495e; }
 
 .navbar-toggler:focus,
 .navbar-toggler:active {
@@ -8247,7 +8247,7 @@ a.summary-link {
   z-index: 1030; }
 
 .dark .navbar-brand {
-  color: white; }
+  color: #2b2b2b; }
 
 .navbar-brand img {
   width: auto;
@@ -8262,7 +8262,7 @@ a.summary-link {
   color: #34495e; }
 
 .dark #navbar-main .main-menu-item ul li .nav-link {
-  color: white; }
+  color: #34495e; }
 
 @media (max-width: 991.98px) {
   .navbar-brand-mobile-wrapper {
@@ -8287,7 +8287,7 @@ a.summary-link {
     background-color: #fff;
     text-align: center !important; }
   .dark .navbar-collapse {
-    background-color: #282a36; }
+    background-color: #fff; }
   #navbar-main .main-menu-item .nav-item {
     padding: 10px 15px !important; }
   #navbar-main .main-menu-item .nav-item .nav-link {
@@ -8310,16 +8310,16 @@ ul.nav-icons li.nav-item a.nav-link {
   padding: 0; }
 
 .dark .dropdown-menu {
-  background-color: #282a36 !important;
-  color: white !important; }
+  background-color: #fff !important;
+  color: #34495e !important; }
 
 .dropdown-item {
   background-color: #fff !important;
   color: #34495e !important; }
 
 .dark .dropdown-item {
-  background-color: #282a36 !important;
-  color: white !important; }
+  background-color: #fff !important;
+  color: #34495e !important; }
 
 /*************************************************
  *  Pager.

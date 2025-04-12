@@ -19,5 +19,11 @@ name = "Minimal"
   # Primary
   primary = "#bbdefb"
 
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#2962ff"
+  menu_title = "#2b2b2b"
+
   link = "#bbdefb"
   link_hover = "#bbdefb"
