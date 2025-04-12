@@ -12,31 +12,32 @@ authors:
 - Zongwei Ma
 - Jun Bi
 date: "2024-02-28T00:00:00Z"
-doi: ""
-featured: false
+doi: "10.1021/acs.est.3c03145"
+featured: true
 image:
   caption: 'Image credit: [**ACS**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c03145)'
   focal_point: ""
   preview_only: false
-projects: []
-publication: '*Environmental Science & Technology (2024)'
+
+publication: "*Environmental Science & Technology (2024)*"
 publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2024-02-28T00:00:00Z"
-
+# slides: example
 summary: This study proposes a framework to assess fine-scale changes in human mobility and urban flood risks during heavy rainfall events by integrating mobile phone big data.
-tags:
-#- Source Themes
-title: Informing Urban Flood Risk Adaptation by Integrating Human Mobility Big Data During Heavy
-url_code: ""
-url_dataset: ""
+tags: []
+title: Informing Urban Flood Risk Adaptation by Integrating Human Mobility Big Data During Heavy Precipitation
+# url_code: https://pubs.acs.org/doi/full/10.1021/acs.est.3c03145
+# url_dataset: ""
 url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.est.3c03145
-url_poster: ""
-url_project: ""
-
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
 url_source: https://pubs.acs.org/doi/full/10.1021/acs.est.3c03145
-url_video: ""
+# url_video: 
 ---
+
+
 
 

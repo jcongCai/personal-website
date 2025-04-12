@@ -221,12 +221,12 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: true
+      exclude_featured: false
       folders:
       - publication
     text: |-
       {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./Publications/).
+      Quickly discover relevant content by [filtering publications](./publication/).
       {{% /callout %}}
     title: Recent Publications
   design:

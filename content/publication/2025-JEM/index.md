@@ -20,7 +20,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Environmental Management (2025)'
+publication: '*Journal of Environmental Management (2025)*'
 publication_short: ""
 publication_types:
 - article-journal
