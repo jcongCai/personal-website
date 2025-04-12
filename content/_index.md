@@ -259,10 +259,10 @@ sections:
     # appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: orcid
+    - icon: researchgate
       icon_pack: fab
-      link: https://orcid.org/0009-0003-3708-878X
-      name: Find me on ORCID
+      link: https://www.researchgate.net/profile/Jiacong-Cai?ev=hdr_xprf
+      name: Find me on ResearchGate
     
     coordinates:
       latitude: "32.119518"
@@ -280,7 +280,7 @@ sections:
     - Sunday 10:00 to 20:00
     # phone: 888 888 88 88
     subtitle: null
-    text: Please feel free to contact me AT the following address if you need any further information.
+    text: Please feel free to contact me AT the following address.
     title: Contact
   design:
     columns: "2"
