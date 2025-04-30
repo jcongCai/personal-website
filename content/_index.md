@@ -88,6 +88,14 @@ sections:
     items:
     - certificate_url: ""
       date_end: ""
+      date_start: "2025-04-21"
+      description: ""
+      icon: award-solid
+      organization: The 14th International Symposium on Digital Earth
+      organization_url: ""
+      title: Oral presentation
+    - certificate_url: ""
+      date_end: ""
       date_start: "2024-12-12"
       description: ""
       icon: award-solid
@@ -118,14 +126,14 @@ sections:
       organization: Wuhan East Lake New Technology Development Zone Management Committee
       organization_url: ""
       title: China Optics Valley Scholarship
-    - certificate_url: http://www.iue.cas.cn/
+    - certificate_url: ""
       date_end: ""
       date_start: "2023-12-12"
       description: ""
       icon: award-solid
-      organization: Institute of Urban Environment, Chinese Academy of Sciences
-      organization_url: http://www.iue.cas.cn/
-      title: Give an oral presentation on the 1st International Conference on Urban Science and Sustainability
+      organization: The 1st International Conference on Urban Science and Sustainability
+      organization_url: ""
+      title: Oral presentation
     - certificate_url: https://ndsc.nju.edu.cn/5c/0a/c11256a613386/pagem.htm
       date_end: ""
       date_start: "2023-04-01"
