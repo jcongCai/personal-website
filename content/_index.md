@@ -88,6 +88,14 @@ sections:
     items:
     - certificate_url: ""
       date_end: ""
+      date_start: "2025-08-05"
+      description: ""
+      icon: award-solid
+      organization: The 8th International Conference on Dynamics of Disasters (DOD 2025)
+      organization_url: ""
+      title: Oral presentation
+    - certificate_url: ""
+      date_end: ""
       date_start: "2025-04-21"
       description: ""
       icon: award-solid
