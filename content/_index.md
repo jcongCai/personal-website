@@ -52,7 +52,18 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: Doctoral research
+    - company: Visiting Guest 
+      company_logo: groningen
+      company_url: ""
+      date_end: ""
+      date_start: "2026-03-01"
+      description: |2-
+          Research topic:
+          * Flood impact assessment
+          * Flood risk management
+      location: Groningen, The Netherlands
+      title: Integrated Research on Energy, Environment and Society
+    - company: PhD Candidate
       company_logo: nju
       company_url: ""
       date_end: ""
